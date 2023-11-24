@@ -1,4 +1,4 @@
-Tremendo, ya paso 5, a los documentos que habiamos creado
-haremos modificaciones y les haremos commit denuevo
+Tremendo, volvimos al primer commit (paso 7), ahora modificaremos este para
+luego hacer commit y luego un merge
 
-Alexis De La Cruz Lozano - branch "AlexTremendo"
+Alexis De La Cruz Lozano - Luis Eduardo Barragán Cruz - branch "AlexTremendo"
