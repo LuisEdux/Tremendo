@@ -1,3 +1,4 @@
 Tremendo, volvimos al primer commit (paso 7), ahora modificaremos este para
 luego hacer commit y luego un merge.
 
+Alexis De La Cruz Lozano - Luis Eduardo Barragán Cruz - branch "AlexTremendo"
