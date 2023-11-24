@@ -1,1 +1,4 @@
-Tremendo
+Tremendo, ya paso 5, a los documentos que habiamos creado
+haremos modificaciones y les haremos commit denuevo
+
+Alexis De La Cruz Lozano - branch "AlexTremendo"
